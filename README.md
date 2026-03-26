@@ -204,3 +204,6 @@ https://26.rosstat.gov.ru/search?q
 
 ### Инструменты
 Google Таблицы, GitHub
+Ссылка на датасет в гугл таблицах, так как excel не поддерживает формат сводных таблиц
+
+https://docs.google.com/spreadsheets/d/1hlFvZp9Vt2NZdlqMUAbIJwumoRgRk3O9gauBuSwGvrc/edit?usp=sharing
